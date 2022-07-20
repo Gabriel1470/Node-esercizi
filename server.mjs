@@ -5,6 +5,7 @@ const server = createServer((request, response) => {
 
     response.statusCode = 200;
     response.setHeader("Content-Type", "text/html");
+    const jsResponse = JSON.stringify({location:"Mars"})
     response.end("<html><body><h1>Ciao Mondo!</h1></body></html>")
 });
 
