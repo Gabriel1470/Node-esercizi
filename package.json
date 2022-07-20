@@ -6,7 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Gabriel1470/Node-esercizi.git"
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Gabriel1470/Node-esercizi/issues"
   },
-  "homepage": "https://github.com/Gabriel1470/Node-esercizi#readme"
+  "homepage": "https://github.com/Gabriel1470/Node-esercizi#readme",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  }
 }
