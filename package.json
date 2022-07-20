@@ -1,0 +1,24 @@
+{
+  "name": "node-esercizi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel1470/Node-esercizi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriel1470/Node-esercizi/issues"
+  },
+  "homepage": "https://github.com/Gabriel1470/Node-esercizi#readme",
+
+  
+
+  
+}
